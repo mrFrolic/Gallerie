@@ -7,8 +7,8 @@
 		<div class="container">
 			<img src="../img/img.png" alt="I RAN WITH IRAN" title="I RAN WITH IRAN" />
 			<h1>I RAN WITH IRAN</h1>
-			<p>du 7 octobre 2012 au 3 décembre 2012</p>
-			<sub>Vernissage et cocktail le Samedi 6 Octobre 2012 à partir de 18h30</sub>
+			<p>from Octobre 7th 2012 to December 3rd 2012</p>
+			<sub>Opening Cocktail on Saturday, October 6th 2012 from 6:30 p.m</sub>
 			<aside>
 				<ul>
 					<li><a href="./_afsoon.php">AFSOON</a></li>
@@ -18,9 +18,11 @@
 				</ul>	
 			</aside>
 			<p>
-				La Galerie Nicolas Hugo est heureuse de vous présenter sa toute première exposition, « I RAN WITH IRAN », à l’occasion de l’inauguration de ce nouvel espace parisien. Une rencontre entre quatre artistes résidants entre Londres, Paris et Téhéran, aux techniques et aux approches différentes – unis par ce pays riche de culture depuis des siècles, souvent méconnu et mal perçu par le reste du Monde, l’Iran.<br><br>
-				« La gloire de l’Iran a toujours été sa culture », l’iranologue américain Richard Nelson Frye par ces mots résume et complexifie à la fois les origines et le vaste puzzle de la culture iranienne. Avec plus de quatre-vingts ethnies riches d’une histoire de plusieurs milliers d’années, de la Mésopotamie antique à la République Islamique d’Iran de nos jours, en passant par Cyrus, Xerxès, Reza Shah et Khomeini, la culture est riche, variée et passionnante.<br><br>
-				Dans cette exposition d’art contemporain, la Galerie Nicolas Hugo souhaite montrer quelques facettes de ce puits de culture avec des œuvres d’AFSOON, née à Téhéran dans les années 60 où elle a passé toute son enfance avant de déménager pour San Francisco puis Londres où elle réside désormais. Sa vie de nomade se reflète dans son travail dans lequel l’Occident fusionne avec l’Orient. Le résultat nous est à la fois familier et lointain. Utilisant la gravure, la photographie et le collage, son œuvre est riche, ludique et laisse l’œil du public interpréter à sa manière.
+				The Galerie Nicolas Hugo is pleased to announce its first exhibition, « I Ran With Iran », on the occasion of the inauguration of this new contemporary art parisian space. A meeting between four different artists living in London, Paris and Tehran, different techniques and approaches – brought together by this country, with centuries of culture, most of the time badly known and seen by the rest of the World, Iran.<br><br>
+				« Iran’s glory has always been its culture », Richard Nelson Frye an american iranologist, summerize and complexify with these words, the origins and the large puzzle of the iranian culture. With more than eighty ethnic groups with an History of thousands years, from antic Mesopotamia to Islamic Republic, Cyrus, Xerxès, Reza Shah and Khomeini, this culture is rich, diversified and fascinating.<br><br>
+				In this contemporary art exhibition, the Galerie Nicolas Hugo wants to show some of the multiple facets this fount of culture has, with the differents artists below.
+				Afsoon, born in Tehran during the sixties where she spend her childhood before settling to San Francisco, CA and then London where she actually works. Her nomadic life is reflected in her work where East merges with West and the result is at once familiar and foreign.
+				She combines different techniques such as linocut, photography, collage and etching and the result is a rich yet often playful and humorous tableau in which the audience is able to engage and interpret in its own way.
 			</p>
 		</div>    
 	</div>

@@ -5,7 +5,7 @@
 <?php include './menu.inc.php' ?>
 
 		<div class="container">
-			<p>La Galerie Nicolas Hugo exposera à partir d’Octobre 2012 lors de sa première exposition, les artistes suivants :</p>
+			<p>The Galerie Nicolas Hugo will work in collaboration with the following artists, during its first exhibition in October 2012 :</p>
 			<aside>
 				<a href="./_afsoon.php"><img src="../img/img.png" alt="Afsoon" title="Afsoon">AFSOON</a>
 				<a href="./_icy&sot.php"><img src="../img/img.png" alt="Icy & Sot" title="Icy & Sot">ICY & SOT</a>

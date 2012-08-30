@@ -14,11 +14,11 @@
 			</article>
 			<article>
 				<h2>METRO :</h2>
-				<p>Luxembourg / Odéon (M4 et M10)</p>
+				<p>Luxembourg (RER C) / Odéon (M4 et M10)</p>
 			</article>
 			<article>
-				<h2>OUVERT :</h2>
-				<p>Sur rendez-vous et week-ends de 10h à 19h</p>
+				<h2>OPEN :</h2>
+				<p>On appointment and on weekends from 10 a.m to 7 p.m</p>
 			</article>
 			<article>
 				<h2>CONTACT :</h2>

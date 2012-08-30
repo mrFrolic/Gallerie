@@ -14,7 +14,7 @@
 			</article>
 			<article>
 				<h2>METRO :</h2>
-				<p>Luxembourg / Odéon (M4 et M10)</p>
+				<p>Luxembourg (RER C) / Odéon (M4 et M10)</p>
 			</article>
 			<article>
 				<h2>OUVERT :</h2>

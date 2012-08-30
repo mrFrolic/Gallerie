@@ -6,15 +6,15 @@
 				<h1>GALLERIE NICOLAS HUGO</h1>
 			</header>
 			<article>
-				<a href="./artistes.php"><img src="../img/img.png" alt="artistes" title="artistes"></a>
-				<a href="./expos.php"><img src="../img/img.png" alt="expos" title="expos"></a>
+				<a href="./artistes.php"><img src="../img/img.png" alt="artists" title="artists"></a>
+				<a href="./expos.php"><img src="../img/img.png" alt="exhib" title="exhib"></a>
 				<a href="./agenda.php"><img src="../img/img.png" alt="agenda" title="agenda"></a>
 				<a href="./contact.php"><img src="../img/img.png" alt="contact" title="contact"></a>				
 			</article>
 			<aside>
 				<p>
-					C’est en octobre 2012 que la Galerie Nicolas Hugo voit le jour dans un appartement aménagé en plein cœur de Paris. En gardant pour objectif promouvoir, aider en exposant des artistes que la galerie aime, venus du monde entier, jeunes, moins jeunes, peintres, sculpteurs, photographes, musiciens, performeurs... Aucune limite n’est réellement fixée si ce n’est la passion et le travail du galeriste mis à l’oeuvre pour chaque exposition.<br><br>
-					Bienvenue !
+					The Galerie Nicolas Hugo opened in October 2012 in an apartment converted in the heart of Paris. With the aim of promoting, helping showing the artists the gallery loves, coming from the whole world, young ones, mature ones, painters, sculptors, photographs, musicians, performers... No limits are really fixed except the passion and the work done by the gallerist for each exhibition.<br><br>
+					Welcome!
 				</p>
 			</aside>
 		</div>    
