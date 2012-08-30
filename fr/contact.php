@@ -2,7 +2,7 @@
 
 	<div class="contact">
 
-<?php include './#inc/menu.inc.php' ?>
+<?php include './menu.inc.php' ?>
 
 		<div class="container">
 			
@@ -27,5 +27,5 @@
 		</div>    
 	</div>
 
-<?php include './#inc/footer.inc.php' ?>
+<?php include './footer.inc.php' ?>
 <?php include '../inc/end.inc.php' ?>        

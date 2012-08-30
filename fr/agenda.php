@@ -2,7 +2,7 @@
 
 	<div class="agenda">
 
-<?php include './#inc/menu.inc.php' ?>
+<?php include './menu.inc.php' ?>
 
 		<div class="container">
 			<h1>VERNISSAGE 6 octobre 2012</h1>			
@@ -14,5 +14,5 @@
 		</div>    
 	</div>
 
-<?php include './#inc/footer.inc.php' ?>
+<?php include './footer.inc.php' ?>
 <?php include '../inc/end.inc.php' ?>        

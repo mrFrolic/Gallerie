@@ -2,7 +2,7 @@
 
 	<div class="expositions">
 
-<?php include './#inc/menu.inc.php' ?>
+<?php include './menu.inc.php' ?>
 
 		<div class="container">
 			<img src="../img/img.png" alt="I RAN WITH IRAN" title="I RAN WITH IRAN" />
@@ -10,10 +10,10 @@
 			<p>du 7 octobre 2012 au 3 décembre 2012</p>
 			<sub>Vernissage et cocktail le Samedi 6 Octobre 2012 à partir de 18h30</sub>
 			<aside>
-				<a href="./afsoon/afsoon.php">AFSOON</a>
-				<a href="./icy&sot/icy&sot.php">ICY & SOT</a>
-				<a href="./jalalSepehr/jalalSepehr.php">JALAL SEPEHR</a>
-				<a href="./lavenChegeni/lavenChegeni.php">LAVEN CHEGENI</a>
+				<a href="./_afsoon.php">AFSOON</a>
+				<a href="./_icy&sot/icy&sot.php">ICY & SOT</a>
+				<a href="./_jalalSepehr/jalalSepehr.php">JALAL SEPEHR</a>
+				<a href="./_lavenChegeni/lavenChegeni.php">LAVEN CHEGENI</a>
 			</aside>
 			<p>
 				La Galerie Nicolas Hugo est heureuse de vous présenter sa toute première exposition, « I RAN WITH IRAN », à l’occasion de l’inauguration de ce nouvel espace parisien. Une rencontre entre quatre artistes résidants entre Londres, Paris et Téhéran, aux techniques et aux approches différentes – unis par ce pays riche de culture depuis des siècles, souvent méconnu et mal perçu par le reste du Monde, l’Iran.<br><br>
@@ -23,5 +23,5 @@
 		</div>    
 	</div>
 
-<?php include './#inc/footer.inc.php' ?>
+<?php include './footer.inc.php' ?>
 <?php include '../inc/end.inc.php' ?>        
