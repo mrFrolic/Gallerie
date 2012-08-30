@@ -4,8 +4,8 @@
 
 <?php include './menu.inc.php' ?>
 
-<?php include './_afsoonOeuvres.html' ?>
- 
+<?php include './_jalalSepehrBio.html' ?>
+
 	</div>
 
 <?php include './footer.inc.php' ?>

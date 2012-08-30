@@ -20,5 +20,5 @@
 		</div>    
 	</div>
 
-<?php include './#inc/footer.inc.php' ?>
+<?php include './footer.inc.php' ?>
 <?php include '../inc/end.inc.php' ?>        

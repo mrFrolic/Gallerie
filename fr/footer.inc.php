@@ -1,3 +1,3 @@
 <footer>
-	<a href="../index.html">ACCUEIL</a>
+	<a href="../index.php">ACCUEIL</a>
 </footer>

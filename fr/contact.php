@@ -22,7 +22,7 @@
 			</article>
 			<article>
 				<h2>CONTACT :</h2>
-				<p>+(00)33.6.33.24.29.19<br> <a href="mailto:"></a>nicolas@galerienicolashugo.com</p>
+				<p>+(00)33.6.33.24.29.19<br> <a href="mailto:">nicolas@galerienicolashugo.com</a><br><a href="https://www.facebook.com/GalerieNicolasHugo?ref=ts">facebook</a></p>
 			</article>			
 		</div>    
 	</div>

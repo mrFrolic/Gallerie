@@ -10,10 +10,12 @@
 			<p>du 7 octobre 2012 au 3 décembre 2012</p>
 			<sub>Vernissage et cocktail le Samedi 6 Octobre 2012 à partir de 18h30</sub>
 			<aside>
-				<a href="./_afsoon.php">AFSOON</a>
-				<a href="./_icy&sot/icy&sot.php">ICY & SOT</a>
-				<a href="./_jalalSepehr/jalalSepehr.php">JALAL SEPEHR</a>
-				<a href="./_lavenChegeni/lavenChegeni.php">LAVEN CHEGENI</a>
+				<ul>
+					<li><a href="./_afsoon.php">AFSOON</a></li>
+					<li><a href="./_icy&sot/icy&sot.php">ICY & SOT</a></li>
+					<li><a href="./_jalalSepehr/jalalSepehr.php">JALAL SEPEHR</a></li>
+					<li><a href="./_lavenChegeni/lavenChegeni.php">LAVEN CHEGENI</a></li>
+				</ul>	
 			</aside>
 			<p>
 				La Galerie Nicolas Hugo est heureuse de vous présenter sa toute première exposition, « I RAN WITH IRAN », à l’occasion de l’inauguration de ce nouvel espace parisien. Une rencontre entre quatre artistes résidants entre Londres, Paris et Téhéran, aux techniques et aux approches différentes – unis par ce pays riche de culture depuis des siècles, souvent méconnu et mal perçu par le reste du Monde, l’Iran.<br><br>
