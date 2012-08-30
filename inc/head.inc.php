@@ -10,7 +10,7 @@
 		<meta name="description" content="Gallerie Nicolas Hugo Artists Exhibitions">
 		<meta name="keywords" content="HTML,CSS,JavaScript" />
 		<meta name="author" content="@mrDenav" />
-		<meta name="viewport" content="width=device-width">
+		<meta name="viewport" content="width=device-width, initial-scale=0.9, maximum-scale=0.9">
 
 		<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 
