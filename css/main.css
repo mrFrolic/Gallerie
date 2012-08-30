@@ -92,12 +92,32 @@ textarea {
 /* ==========================================================================
    @mrDenav
    ========================================================================== */
+   
+   
+   
+   
+/* -------------- FONT --------------- */
 
-body{
+a {
+   text-decoration: none;
+   color: green; 
+}
+
+a:hover {
+    color: black;
+}
+
+
+
+
+
+/* -------------- MAIN --------------- */
+
+body {
     width: 100%;
 }
 
-.container{
+.container {
     max-width: 750px;
     height: 100%;
     margin: 0 auto;
@@ -108,6 +128,85 @@ nav {
     position: absolute;
 }
 
+footer {
+    position: fixed;
+    bottom: 10px;
+}
+
+
+
+
+
+/* -------------- NAV --------------- */
+
+ul ul {
+    display: none;
+}
+
+.artistes nav article:last-child {
+    display: none;
+}
+
+.artistes nav article:first-child a:first-child {
+    background: black;
+}
+
+.afsoon nav article:nth-child(2) li:first-child ul {
+    display: block;
+}
+.afsoon nav .afsoon {
+    color: black;
+}
+
+.icy_sot nav article:nth-child(2) li:nth-child(2) ul {
+    display: block;
+}
+.icy_sot nav .icy_sot {
+    color: black;
+}
+
+.lavenChegeni nav article:nth-child(2) li:nth-child(3) ul {
+    display: block;
+}
+.lavenChegeni nav .lavenChegeni {
+    color: black;
+}
+
+.jalalSepehr nav article:nth-child(2) li:last-child ul {
+    display: block;
+}
+.jalalSepehr nav .jalalSepehr {
+    color: black;
+}
+
+
+
+
+.expositions nav article:nth-child(2) {
+    display: none;
+}
+.expositions nav article:first-child a:nth-child(2) {
+    background: black;
+}
+
+
+
+
+.agenda nav article:nth-child(2),
+.agenda nav article:nth-child(3),
+.contact nav article:nth-child(2),
+.contact nav article:nth-child(3)
+{
+    display: none;
+}
+
+.agenda nav article:first-child a:nth-child(3) {
+    background: black;
+}
+
+.contact nav article:first-child a:nth-child(4) {
+    background: black;
+}
 
 
 

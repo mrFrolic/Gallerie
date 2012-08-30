@@ -1,6 +1,6 @@
 <?php include '../inc/head.inc.php' ?>
 
-	<div class="artistes">
+	<div class="artistes lavenChegeni">
 
 <?php include './menu.inc.php' ?>
 

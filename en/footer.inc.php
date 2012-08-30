@@ -1,3 +1,5 @@
 <footer>
-	<a href="../index.php">HOME</a>
+	<ul>
+		<li><a href="../index.php">HOME</a></li>
+	</ul>
 </footer>

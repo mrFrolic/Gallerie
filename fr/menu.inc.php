@@ -8,7 +8,7 @@
 	<article>
 		<ul>
 			<li>
-				<a href="./_afsoon.php">AFSOON</a>
+				<a class="afsoon" href="./_afsoon.php">AFSOON</a>
 				<ul>
 					<li><a href="#Oeuvres">OEUVRES</a></li>
 					<li><a href="#Biographie">BIO</a></li>
@@ -16,21 +16,21 @@
 				</ul>
 			</li>
 			<li>
-				<a href="./_icy&sot.php">ICY & SOT</a>
+				<a class="icy_sot" href="./_icy&sot.php">ICY & SOT</a>
 				<ul>
 					<li><a href="#Biographie">BIO</a></li>
 					<li><a href="./iran.html">EXPOSITION</a></li>
 				</ul>				
 			</li>
 			<li>
-				<a href="./_lavenChegeni.php">LAVEN CHEGENI</a>
+				<a class="lavenChegeni" href="./_lavenChegeni.php">LAVEN CHEGENI</a>
 				<ul>
 					<li><a href="#Biographie">BIO</a></li>
 					<li><a href="./iran.html">EXPOSITION</a></li>
 				</ul>				
 			</li>
 			<li>
-				<a href="./_jalalSepehr.php">JALAL SEPEHR</a>
+				<a class="jalalSepehr" href="./_jalalSepehr.php">JALAL SEPEHR</a>
 				<ul>
 					<li><a href="#Biographie">BIO</a></li>
 					<li><a href="./iran.html">EXPOSITION</a></li>
@@ -39,6 +39,8 @@
 		</ul>
 	</article>
 	<article>
-		<a href="">À VENIR</a>
+		<ul>
+			<li><a href="">À VENIR</a></li>
+		</ul>
 	</article>
 </nav>
