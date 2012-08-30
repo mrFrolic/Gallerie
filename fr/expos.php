@@ -12,9 +12,9 @@
 			<aside>
 				<ul>
 					<li><a href="./_afsoon.php">AFSOON</a></li>
-					<li><a href="./_icy&sot/icy&sot.php">ICY & SOT</a></li>
-					<li><a href="./_jalalSepehr/jalalSepehr.php">JALAL SEPEHR</a></li>
-					<li><a href="./_lavenChegeni/lavenChegeni.php">LAVEN CHEGENI</a></li>
+					<li><a href="./_icy&sot.php">ICY & SOT</a></li>
+					<li><a href="./_jalalSepehr.php">JALAL SEPEHR</a></li>
+					<li><a href="./_lavenChegeni.php">LAVEN CHEGENI</a></li>
 				</ul>	
 			</aside>
 			<p>
