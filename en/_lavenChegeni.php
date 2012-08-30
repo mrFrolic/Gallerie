@@ -4,7 +4,9 @@
 
 <?php include './menu.inc.php' ?>
 
+		<div class="container">
 <?php include './_lavenChegeniBio.html' ?>
+		</div>
 
 	</div>
 

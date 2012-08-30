@@ -189,6 +189,13 @@ ul ul {
     background: black;
 }
 
+#afsoonOeuvres a,
+#icy_sotBio a,
+#lavenChegeniBio a,
+#jalalSepehrBio a
+{
+    color: black;
+}
 
 
 

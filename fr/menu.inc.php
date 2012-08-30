@@ -10,30 +10,30 @@
 			<li>
 				<a class="afsoon" href="./_afsoon.php">AFSOON</a>
 				<ul>
-					<li><a href="#Oeuvres">OEUVRES</a></li>
-					<li><a href="#Biographie">BIO</a></li>
-					<li><a href="./iran.html">EXPOSITION</a></li>
+					<li id="afsoonOeuvres"><a href="#Oeuvres">OEUVRES</a></li>
+					<li id="afsoonBio"><a href="#Biographie">BIO</a></li>
+					<li id="afsoonExpo"><a href="#Exposition">EXPOSITION</a></li>
 				</ul>
 			</li>
 			<li>
 				<a class="icy_sot" href="./_icy&sot.php">ICY & SOT</a>
 				<ul>
-					<li><a href="#Biographie">BIO</a></li>
-					<li><a href="./iran.html">EXPOSITION</a></li>
+					<li id="icy_sotBio"><a href="#Biographie">BIO</a></li>
+					<li id="icy_sotExpo"><a href="#Exposition">EXPOSITION</a></li>
 				</ul>				
 			</li>
 			<li>
 				<a class="lavenChegeni" href="./_lavenChegeni.php">LAVEN CHEGENI</a>
 				<ul>
-					<li><a href="#Biographie">BIO</a></li>
-					<li><a href="./iran.html">EXPOSITION</a></li>
+					<li id="lavenChegeniBio"><a href="#Biographie">BIO</a></li>
+					<li id="lavenChegeniExpo"><a href="#Exposition">EXPOSITION</a></li>
 				</ul>				
 			</li>
 			<li>
 				<a class="jalalSepehr" href="./_jalalSepehr.php">JALAL SEPEHR</a>
 				<ul>
-					<li><a href="#Biographie">BIO</a></li>
-					<li><a href="./iran.html">EXPOSITION</a></li>
+					<li id="jalalSepehrBio"><a href="#Biographie">BIO</a></li>
+					<li id="jalalSepehrExpo"><a href="#Exposition">EXPOSITION</a></li>
 				</ul>									
 			</li>			
 		</ul>
