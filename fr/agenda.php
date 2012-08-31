@@ -5,7 +5,7 @@
 <?php include './menu.inc.php' ?>
 
 		<div class="container">
-			<h1>VERNISSAGE <span style="color:green">6 octobre 2012</span></h1>			
+			<h1>VERNISSAGE <span style="color:black">6 octobre 2012</span></h1>			
 			<p>
 				La Galerie Nicolas Hugo est heureuse de présenter sa toute première exposition, « I Ran with Iran », à l’occasion de l’inauguration de ce nouvel espace parisien. Une rencontre entre quatre artistes résidants entre Londres, paris et téhéran, aux techniques et aux approches différentes – unis par ce pays riche de culture depuis des siècles, souvent méconnu et mal perçu par le reste du Monde, l’Iran.<br><br>
 				« La gloire de l’Iran a toujours été sa culture », l’iranologue américain Richard Nelson Frye par ces mots résume et complexifie à la fois les origines et le vaste puzzle de la culture iranienne. Avec plus de quatre-vingts ethnies riches d’une histoire de plusieurs milliers d’années, de la Mésopotamie antique à la République Islamique d’Iran de nos jours, en passant par Cyrus, Xerxès, Reza Shah et Khomeini, la culture est riche, variée et passionnante.<br><br>
