@@ -302,8 +302,8 @@ ul {
  * Corrects list images handled incorrectly in IE 7.
  */
 
-nav ul,
-nav ol {
+ul,
+ol {
     list-style: none;
     list-style-image: none;
 }
