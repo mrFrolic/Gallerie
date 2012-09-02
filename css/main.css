@@ -204,7 +204,7 @@ body {
     min-width: 750px;
     height: 100%;
     margin: 0 auto;
-    padding: 100px 280px;
+    padding: 140px 280px 50px 280px;
 }
 
 .container figure{
@@ -380,6 +380,7 @@ ul ul {
 .menu article a:nth-child(4) img,
 .menu article a#contactSpan img
 {
+    z-index: 999;
 	width: 26px;
 	top: 144px;
 	right: 78px;
@@ -486,6 +487,22 @@ ul ul {
 	bottom: 150px;
 }
 
+.accueil .container article a:nth-child(1) img {
+    width: 110px;
+}
+
+.accueil .container article a:nth-child(2) img {
+    width: 85px;
+}
+
+.accueil .container article a:nth-child(3) img {
+    width: 74px;
+}
+
+.accueil .container article a:nth-child(4) img {
+    width: 50px;
+    z-index: 999;
+}
 
 
 
@@ -549,7 +566,12 @@ ul ul {
 }
 
 .artistes #oeuvres {
-    float: center;
+    text-align: center;
+}
+
+.artistes #oeuvres sub {
+    float: left;
+    padding-top: 10px;
 }
 
 

@@ -6,10 +6,10 @@
 				<h1>GALERIE NICOLAS HUGO</h1>
 			</header>
 			<article>
-				<a href="./artistes.php"><img src="../img/artists.svg" alt="artists" title="artists"></a>
-				<a href="./expos.php"><img src="../img/exhibitions.svg" alt="exhib" title="exhib"></a>
-				<a href="./agenda.php"><img src="../img/agenda.svg" alt="agenda" title="agenda"></a>
-				<a href="./contact.php"><img src="../img/contact.svg" alt="contact" title="contact"></a>				
+				<a href="./artistes.php"><img src="/Gallerie/img/artists.svg" alt="artists" title="artists"></a>
+				<a href="./expos.php"><img src="/Gallerie/img/exhibitions.svg" alt="exhib" title="exhib"></a>
+				<a href="./agenda.php"><img src="/Gallerie/img/agenda.svg" alt="agenda" title="agenda"></a>
+				<a href="./contact.php"><img src="/Gallerie/img/contact.svg" alt="contact" title="contact"></a>					
 			</article>
 			<aside>
 				<p>
