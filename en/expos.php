@@ -5,7 +5,7 @@
 <?php include './menu.inc.php' ?>
 
 		<div class="container">
-			<img src="../img/img.png" alt="I RAN WITH IRAN" title="I RAN WITH IRAN" />
+			<img src="../img/iran.jpg" alt="I RAN WITH IRAN" title="I RAN WITH IRAN" />
 			<h1>I RAN WITH IRAN</h1>
 			<p>from Octobre 7th 2012 to December 3rd 2012</p>
 			<sub>Opening Cocktail on Saturday, October 6th 2012 from 6:30 p.m</sub>

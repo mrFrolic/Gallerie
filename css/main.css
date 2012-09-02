@@ -151,6 +151,7 @@ a:hover {
     color: #006858; 
 }
 
+
 ul a {
    text-decoration: none; 
    color: #006858;
@@ -168,11 +169,11 @@ ul ul li a {
 
 ul ul li a:hover {
     color: black;
-    font-family: 'futuraBold';
+    font-family: 'futuraBook';
 }
 
 h1 {
-    font-family: 'futuraBold';
+    font-family: 'futuraBook';
     color: #006858;
     margin-bottom: 0;
 }
@@ -218,6 +219,7 @@ body {
 .agenda .container p:last-child
 {
     text-indent: 2em;
+    font-size: 0.9em;
     text-align: justify;
 }
 
@@ -228,7 +230,13 @@ nav {
 footer {
     position: fixed;
     bottom: 10px;
-    left: 55px
+    left: 56px;
+    font-size: 0.9em;
+    font-family: 'futuraBold';
+}
+
+footer ul a {
+	color: black;
 }
 
 p {
@@ -250,13 +258,22 @@ nav article{
     padding: 20px 0 10px 0;
 }
 
+ul li {
+	margin-bottom: 10px;	
+}
+
+
+ul ul li {
+	margin-bottom: 0px;
+}
+
 ul ul {
     display: none;
     text-align: left;
     left: 0;
     padding: 0;
-    margin: 0 0 15px 0;
-    font-size: 0.9em;
+    margin: 15px 0 45px 0;
+    font-size: 0.8em;
 }
 
 .artistes .container a p:last-child{
@@ -266,10 +283,6 @@ ul ul {
 
 .artistes nav article:last-child {
     display: none;
-}
-
-.artistes nav article:first-child a:first-child {
-    background: black;
 }
 
 .afsoon nav article:nth-child(2) li:first-child ul {
@@ -306,20 +319,15 @@ ul ul {
 .expositions nav article:nth-child(2) {
     display: none;
 }
-.expositions nav article:first-child a:nth-child(2) {
-    background: black;
-}
+
 
 #afsoonOeuvres a,
 #icy_sotBio a,
 #lavenChegeniBio a,
 #jalalSepehrBio a
 {
-    font-family: 'futuraBold';
+	font-family: 'futuraBold';
 }
-
-
-
 
 .agenda nav article:nth-child(2),
 .agenda nav article:nth-child(3),
@@ -329,16 +337,77 @@ ul ul {
     display: none;
 }
 
-.agenda nav article:first-child a:nth-child(3) {
-    background: black;
+
+
+.menu {
+	width: 200px;
 }
 
-.contact nav article:first-child a:nth-child(4) {
-    background: black;
+.menu article:first-child {
+	position: relative;
+	margin: 40px auto;
+	height: 150px;
 }
 
+.menu article a img {
+	position: absolute;
+}
 
+.menu article a:first-child img,
+.menu article a#artistSpan img
+{
+	width: 61px;
+	top: 5px;
+	right: 41px;
+}
 
+.menu article a:nth-child(2) img,
+.menu article a#expoSpan img
+{
+	width: 47px;
+	top: 18px;
+	right: 105px;
+}
+
+.menu article a:nth-child(3) img,
+.menu article a#agendaSpan img
+{
+	width: 42px;
+	top: 0px;
+	right: 0px;
+}
+
+.menu article a:nth-child(4) img,
+.menu article a#contactSpan img
+{
+	width: 26px;
+	top: 144px;
+	right: 78px;
+}
+
+.artistes .menu article a:first-child img,
+.expositions .menu article a:nth-child(2) img,
+.agenda .menu article a:nth-child(3) img,
+.contact .menu article a:nth-child(4) img
+{
+	display: none;
+}
+
+.menu article a#artistSpan img,
+.menu article a#expoSpan img,
+.menu article a#agendaSpan img,
+.menu article a#contactSpan img
+{
+	display: none;
+}
+
+.artistes .menu article a#artistSpan img,
+.expositions .menu article a#expoSpan img,
+.agenda .menu article a#agendaSpan img,
+.contact .menu article a#contactSpan img
+{
+	display: block;
+}
 
 
 /* -------------- INTRO --------------- */
@@ -349,6 +418,73 @@ ul ul {
     text-align: center;
 }
 
+.intro aside {
+	margin: 40px 0;
+}
+
+.intro aside a{
+	padding: 0 4px;
+}
+
+.credits {
+	top: 100px;
+	position: absolute;
+	right: 40px;
+}
+
+.credits img {
+	width: 17px;
+}
+
+.accueil h1{
+	font-size: 1.1em;
+}
+
+.agenda h1 {
+	font-family: 'futuraBold';
+}
+
+.accueil .container article {
+	position: relative;
+	width: 340px;
+	height: 340px;
+	margin: 25px auto 55px auto;
+}
+
+.accueil .container article a {
+	position: absolute;
+}
+
+.accueil .container article a:last-child {
+	right: 138px;
+	top: 252px;
+}
+
+.accueil .container article a:nth-child(3) {
+	right: 0px;
+	top: 0px;
+}
+
+.accueil .container article a:nth-child(2) {
+	right: 188px;
+	top: 31px;
+}
+
+.accueil .container article a:first-child {
+	right: 73px;
+	top: 9px;
+}
+
+.accueil .container p:last-child {
+	position: absolute;
+	float: right;
+	font-family: 'futuraLight';
+	font-size: 0.8em;
+	text-align: justify;
+	width: 400px;
+	right: 150px;
+	bottom: 150px;
+}
 
 
 
@@ -397,11 +533,21 @@ ul ul {
 }
 
 .artistes .container aside figure {
-    width: 370px;
+    max-width: 475px;
+    min-width: 375px;
     height: auto;
-    padding: 0 5px;
+    padding: 20px 0 20px 0;
     text-align: center;
 }
+
+.artistes .container aside figure img {
+    padding-bottom: 10px;
+}
+
+.artistes .container aside figure img:hover {
+    opacity: 0.95;
+}
+
 .artistes #oeuvres {
     float: center;
 }

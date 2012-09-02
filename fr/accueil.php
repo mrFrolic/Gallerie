@@ -3,13 +3,13 @@
 	<div class="accueil">
 		<div class="container">
 			<header>
-				<h1>GALLERIE NICOLAS HUGO</h1>
+				<h1>GALERIE NICOLAS HUGO</h1>
 			</header>
 			<article>
-				<a href="./artistes.php"><img src="../img/img.png" alt="artistes" title="artistes"></a>
-				<a href="./expos.php"><img src="../img/img.png" alt="expos" title="expos"></a>
-				<a href="./agenda.php"><img src="../img/img.png" alt="agenda" title="agenda"></a>
-				<a href="./contact.php"><img src="../img/img.png" alt="contact" title="contact"></a>				
+				<a href="./artistes.php"><img src="../img/artistes.svg" alt="artistes" title="artistes"></a>
+				<a href="./expos.php"><img src="../img/expo.svg" alt="expos" title="expos"></a>
+				<a href="./agenda.php"><img src="../img/agenda.svg" alt="agenda" title="agenda"></a>
+				<a href="./contact.php"><img src="../img/contact.svg" alt="contact" title="contact"></a>				
 			</article>
 			<aside>
 				<p>

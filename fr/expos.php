@@ -5,7 +5,7 @@
 <?php include './menu.inc.php' ?>
 
 		<div class="container">
-			<img src="../img/img.png" alt="I RAN WITH IRAN" title="I RAN WITH IRAN" />
+			<img src="../img/iran.jpg" alt="I RAN WITH IRAN" title="I RAN WITH IRAN" />
 			<h1>I RAN WITH IRAN</h1>
 			<p>du 7 octobre 2012 au 3 décembre 2012</p>
 			<sub>Vernissage et cocktail le Samedi 6 Octobre 2012 à partir de 18h30</sub>

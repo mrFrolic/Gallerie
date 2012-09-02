@@ -6,7 +6,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Gallerie Nicolas Hugo</title>
+    <title>Galerie Nicolas Hugo</title>
     <meta name="description" content="Gallerie Nicolas Hugo Artists Exhibitions">
     <meta name="keywords" content="HTML,CSS,JavaScript" />
     <meta name="author" content="@mrDenav" />
@@ -25,14 +25,14 @@
 
     <div class="intro">
         <div class="container">
-            <img src="./img/img.png" alt="Gallerie Nicolas hugo" title="Gallerie Nicolas Hugo" />
+            <img src="./img/index.svg" alt="Gallerie Nicolas hugo" title="Gallerie Nicolas Hugo" />
             <aside>
                 <a href="./fr/accueil.php">FR</a>
                 <a href="./en/accueil.php">EN</a>                
             </aside>
         </div>    
         <div class="credits">
-            <img src="./img/img.png" alt="credits" title="credits" />
+            <img src="./img/credit.svg" alt="credits" title="credits" />
         </div>
     </div>
     

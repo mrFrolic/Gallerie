@@ -6,7 +6,7 @@
 	<head>
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-		<title>Gallerie Nicolas Hugo</title>
+		<title>Galerie Nicolas Hugo</title>
 		<meta name="description" content="Gallerie Nicolas Hugo Artists Exhibitions">
 		<meta name="keywords" content="HTML,CSS,JavaScript" />
 		<meta name="author" content="@mrDenav" />

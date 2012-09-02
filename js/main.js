@@ -55,5 +55,15 @@ $("#jalalSepehrExpo a").click(function() {
 
 
 
-
+$(function() {
+    $(".accueil .container article a img, .menu article a img")
+        .mouseover(function() { 
+            var src = $(this).attr("src").match(/[^\..]+/) + "H.svg";
+            $(this).attr("src", src);
+        })
+        .mouseout(function() {
+            var src = $(this).attr("src").replace("H.svg", ".svg");
+            $(this).attr("src", src);
+        });
+});
 

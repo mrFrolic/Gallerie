@@ -1,5 +1,5 @@
 <footer>
 	<ul>
-		<li><a href="../index.php">ACCUEIL</a></li>
+		<li><a href="../index.php">accueil</a></li>
 	</ul>
 </footer>
