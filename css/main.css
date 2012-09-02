@@ -232,11 +232,15 @@ footer {
     bottom: 10px;
     left: 56px;
     font-size: 0.9em;
-    font-family: 'futuraBold';
+    font-family: 'futuraBook';
 }
 
 footer ul a {
 	color: black;
+}
+
+footer ul a:hover {
+    color: black;
 }
 
 p {
@@ -437,8 +441,8 @@ ul ul {
 	width: 17px;
 }
 
-.accueil h1{
-	font-size: 1.1em;
+.accueil h1 {
+	font-size: 1.6em;
 }
 
 .agenda h1 {
@@ -483,8 +487,8 @@ ul ul {
 	font-size: 0.8em;
 	text-align: justify;
 	width: 400px;
-	right: 150px;
-	bottom: 150px;
+	margin-left: 620px;
+	top: 560px;
 }
 
 .accueil .container article a:nth-child(1) img {

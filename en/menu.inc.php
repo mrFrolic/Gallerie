@@ -1,14 +1,14 @@
 <nav class="menu">
 	<article>
-		<a href="./artistes.php"><img src="/Gallerie/img/artists.svg" alt="artists" title="artists"></a>
-		<a href="./expos.php"><img src="/Gallerie/img/exhibitions.svg" alt="exhib" title="exhib"></a>
-		<a href="./agenda.php"><img src="/Gallerie/img/agenda.svg" alt="agenda" title="agenda"></a>
-		<a href="./contact.php"><img src="/Gallerie/img/contact.svg" alt="contact" title="contact"></a>	
+		<a href="./artistes.php"><img src="../img/artists.svg" alt="artists" title="artists"></a>
+		<a href="./expos.php"><img src="../img/exhibitions.svg" alt="exhib" title="exhib"></a>
+		<a href="./agenda.php"><img src="../img/agenda.svg" alt="agenda" title="agenda"></a>
+		<a href="./contact.php"><img src="../img/contact.svg" alt="contact" title="contact"></a>	
 		
-		<a id="artistSpan" href="./artistes.php"><img src="/Gallerie/img/artistsH.svg" alt="artists" title="artists"></a>
-		<a id="expoSpan" href="./expos.php"><img src="/Gallerie/img/exhibitionsH.svg" alt="exhib" title="exhib"></a>
-		<a id="agendaSpan" href="./agenda.php"><img src="/Gallerie/img/agendaH.svg" alt="agenda" title="agenda"></a>
-		<a id="contactSpan" href="./contact.php"><img src="/Gallerie/img/contactH.svg" alt="contact" title="contact"></a>				
+		<a id="artistSpan" href="./artistes.php"><img src="../img/artistsH.svg" alt="artists" title="artists"></a>
+		<a id="expoSpan" href="./expos.php"><img src="../img/exhibitionsH.svg" alt="exhib" title="exhib"></a>
+		<a id="agendaSpan" href="./agenda.php"><img src="../img/agendaH.svg" alt="agenda" title="agenda"></a>
+		<a id="contactSpan" href="./contact.php"><img src="../img/contactH.svg" alt="contact" title="contact"></a>				
 	</article>			
 	<article>
 		<ul>
