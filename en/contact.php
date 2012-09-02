@@ -6,7 +6,7 @@
 
 		<div class="container">
 			
-			<iframe width='500' height='350' frameBorder='0' src='http://a.tiles.mapbox.com/v3/denav.map-bd8omxc6.html#15/48.851/2.343'></iframe>
+			<iframe width='500' height='350' frameBorder='0' src='http://a.tiles.mapbox.com/v3/denav.map-bd8omxc6.html#15/48.85044698452589/2.340707239297078'></iframe>
 			
 			<article>
 				<h4>GALERIE NICOLAS HUGO</h4>
@@ -22,7 +22,7 @@
 			</article>
 			<article>
 				<h4>CONTACT :</h4>
-				<p>+(00)33.6.33.24.29.19<br> <a href="mailto:">nicolas@galerienicolashugo.com</a><br><a href="https://www.facebook.com/GalerieNicolasHugo?ref=ts">facebook</a></p>
+				<p>+(00)33.6.33.24.29.19<br> <a href="mailto:">nicolas@galerienicolashugo.com</a><br><a href="https://www.facebook.com/GalerieNicolasHugo?ref=ts">facebook</a><br><a href="https://twitter.com/GalerieNHugo ">twitter</a></p>
 			</article>			
 		</div>    
 	</div>

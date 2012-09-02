@@ -11,7 +11,7 @@
 					<a href="./_afsoon.php"><img src="../img/m_afsoon.jpg" alt="Afsoon" title="Afsoon"><br>AFSOON</a>
 				</figure>
 				<figure>
-					<a href="./_icy&sot.php"><img src="../img/m_icy&sot.jpg" alt="Icy & Sot" title="Icy & Sot"><br>ICY & SOT</a>	
+					<a href="./_icy&sot.php"><img src="../img/m_icy&sot.jpg" alt="Icy and Sot" title="Icy and Sot"><br>ICY AND SOT</a>	
 				</figure>
 				<figure>
 					<a href="./_jalalSepehr.php"><img src="../img/m_jalal.jpg" alt="Jalal Sepehr" title="Jalal Sepehr"><br>JALAL SEPEHR</a>	
